@@ -4,6 +4,11 @@
 # UNICEF Mozambique Open Data Kit Forms
 
 <!-- badges: start -->
+
+[![Project Status: WIP – Initial development is in progress, but there
+has not yet been a stable, usable release suitable for the
+public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+[![DOI](https://zenodo.org/badge/454729659.svg)](https://zenodo.org/badge/latestdoi/454729659)
 <!-- badges: end -->
 
 This repository contains several survey instruments in XLSForm and XForm
@@ -41,7 +46,9 @@ devices will need to be connected to the server. This is described
 [here](https://help.ona.io/knowledge-base/guide-using-enketo-odk-collect/#configuring-odk-collect-with-your-ona-account).
 The following ODK Aggregate server setttings should be used:
 
-url: <https://odk.ona.io> username: validtrial password: zEF-STN-5ze-qom
+url: <https://odk.ona.io>  
+username: validtrial  
+password: zEF-STN-5ze-qom
 
 Once ODK Collect has been connected to the test server, it will now be
 possible to pull any of these forms into ODK Collect in the mobile
