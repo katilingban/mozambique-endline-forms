@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# UNICEF Mozambique Open Data Kit Forms
+# UNICEF Mozambique Open Data Kit Form for the *Improving nutrition status for under 5 children in Zambezia and Nampula* project endline survey
 
 <!-- badges: start -->
 
@@ -13,10 +13,8 @@ date)](https://img.shields.io/github/v/release/katilingban/mozambique-forms)
 [![DOI](https://zenodo.org/badge/454729659.svg)](https://zenodo.org/badge/latestdoi/454729659)
 <!-- badges: end -->
 
-This repository contains several survey instruments in XLSForm and XForm
+This repository contains endline survey instrument in XLSForm and XForm
 standard for use in Open Data Kit developed for UNICEF Mozambique.
-
-## Improving nutrition status for under 5 children in Zambezia and Nampula
 
 This form (`improving_nutrition_status_u5.xlsx` and
 `improving_nutrition_status_u5.xml`) is for use in the endline survey

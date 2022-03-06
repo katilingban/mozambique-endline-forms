@@ -11,7 +11,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# UNICEF Mozambique Open Data Kit Forms
+# UNICEF Mozambique Open Data Kit Form for the *Improving nutrition status for under 5 children in Zambezia and Nampula* project endline survey
 
 <!-- badges: start -->
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
@@ -19,9 +19,7 @@ knitr::opts_chunk$set(
 [![DOI](https://zenodo.org/badge/454729659.svg)](https://zenodo.org/badge/latestdoi/454729659)
 <!-- badges: end -->
 
-This repository contains several survey instruments in XLSForm and XForm standard for use in Open Data Kit developed for UNICEF Mozambique.
-
-## Improving nutrition status for under 5 children in Zambezia and Nampula
+This repository contains endline survey instrument in XLSForm and XForm standard for use in Open Data Kit developed for UNICEF Mozambique.
 
 This form (`improving_nutrition_status_u5.xlsx` and `improving_nutrition_status_u5.xml`) is for use in the endline survey for the evaluation of the *"Imporving nutrition status for under 5 children in Zambezia and Nampula project"*.
 
